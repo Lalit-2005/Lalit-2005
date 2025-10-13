@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year B.Tech Student | Coding Enthusiast  
+- 🎓 4th Year B.Tech Student | Coding Enthusiast  
 - 💻 I love building responsive & scalable web apps  
 - 💡 Currently working on **TravelO** & **Platter Pro**  
 - 🧠 Focused on **DSA in C++** and real-world **fullstack projects**  
